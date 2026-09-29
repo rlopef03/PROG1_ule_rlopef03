@@ -8,4 +8,6 @@
 8. programa - http://dle.rae.es/?id=L1k0V34
 9. red - http://dle.rae.es/?id=B4m6T78
 10. código - http://dle.rae.es/?id=C9n5R21
-Hola soy Rodrigo y estoy haciendo la segunda practica con Ruben
+11. bucle - https://dle.rae.es/bucle
+12. sintaxis - https://dle.rae.es/sintaxis
+13. compilador - https://dle.rae.es/compilador
